@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/jonbilous/chakra-react-table/compare/v1.0.0...v1.1.0) (2022-04-20)
+
+
+### Features
+
+* **version:** increment version ([821bc6d](https://github.com/jonbilous/chakra-react-table/commit/821bc6d0f2f99f63703f24fdf588c2331ad114ec))
+
 # 1.0.0 (2022-04-20)
 
 
