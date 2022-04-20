@@ -15,5 +15,6 @@ test("it renders", async () => {
   );
 
   expect(await screen.findByText("12345678")).toBeInTheDocument();
+
   expect(await screen.findByText("Id")).toBeInTheDocument();
 });
