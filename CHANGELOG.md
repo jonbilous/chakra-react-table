@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/jonbilous/chakra-react-table/compare/v1.1.0...v1.1.1) (2022-04-21)
+
+
+### Bug Fixes
+
+* **npmignore:** ignore tsconfig and vite config ([c540730](https://github.com/jonbilous/chakra-react-table/commit/c5407307309aa618b6a00344f53ce642a37b971f))
+
 # [1.1.0](https://github.com/jonbilous/chakra-react-table/compare/v1.0.0...v1.1.0) (2022-04-20)
 
 
